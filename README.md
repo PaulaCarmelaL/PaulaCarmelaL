@@ -3,7 +3,7 @@
 ### I'm working on getting my WDE 
 
 ### Some of my best works are: 
-- [My Journal](index.md)
+- [My Journal](Journal/index.md)
 - [Self-Portrait](self_portrait.html)
 
  
