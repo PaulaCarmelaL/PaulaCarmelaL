@@ -1,4 +1,4 @@
-## Hi, I'm a senior in High school 
+## Hi, I'm a senior in High school 😁
 ### Skills: HTML & CSS
 ### I'm working on getting my WDE 
 
